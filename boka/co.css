@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+    color: aliceblue;
+}
+.navbar{
+    background-color:#232F3E;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+.nav-logo{
+    height: 50px;
+    width: 100px;
+ 
+}
+.logo{
+    background-image: url(https://www.hatchwise.com/wp-content/uploads/2022/05/amazon-logo-1024x683.png);
+    height: 50px;
+    width: 100%;
+    background-size: cover;
+
+}
+.border{
+    border: 1px solid transparent;
+
+}
+.border:hover{
+    border: 1px solid white;
+}
+.adres{
+    margin-left:20px ;
+}
+.adda{
+    color:#cccccc;
+    font-size: 1rem;
+    margin-left:18px ;
+}
+.adresi{
+    color:#FFFFFF;
+    font-size: 1rem;
+}
+.nav-sea{
+    display: flex;
+    width: 620px;
+    height: 40px;
+    background-color: orange;
+    border-radius: 10px;
+}
+.nav-se{
+    background-color: rgb(26, 21, 21);
+    
+}
+
+.nab-ac{}
+.search-i{}
+
